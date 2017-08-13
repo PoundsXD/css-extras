@@ -2,27 +2,43 @@
   text-decoration: none;
   color: lightgreen;
 }
+.staticBar {
+  position: fixed;
+  background-color: black;
+  width: 100%;
+  margin: 0%;
+  border: 0%;
+  z-index: 2;
+  top: 0px;
+  left: 0px;
+}
 #mainImg {
   width: 96%;
   z-index: -1;
   margin-left: 2%;
   margin-right: 2%;
+  position: absolute;
+  top:133px;
+  left:0px;
 }
 #imgBan {
   margin: 0%;
 }
 #searchIcon {
   text-decoration: none;
-  color: black;
+  color: white;
 }
 .modH1 {
   color: white;
   z-index: 0;
   width: 40%;
   margin: 0%;
+  position: absolute;
+  top: 154px;
+  left: 50px;
+}
+.imgBan {
   position: relative;
-  top: 20px;
-  left: 35px;
 }
 #mod01 {
   text-decoration: none;
@@ -41,7 +57,7 @@
   margin-top: 2.5%;
   margin-bottom: 2%;
   font-size: 25px;
-  color: black;
+  color: white;
 }
 #upperNav {
   width:10%;
@@ -67,7 +83,7 @@
 }
 #lowerNav {
   text-decoration: none;
-  color:black;
+  color:white;
   padding:2%;
   vertical-align: middle;
 }
