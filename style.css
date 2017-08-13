@@ -29,6 +29,25 @@
   padding: 0px;
   border: solid 2px lightblue;
 }
+.replicantwindow3 {
+  position:absolute;
+  top:1350px;
+  margin-left: 5%;
+  margin-right: 5%;
+  width:40%;
+  padding: 0px;
+  border: solid 2px lightblue;
+}
+.replicantwindow4 {
+  position:absolute;
+  top:1350px;
+  right: 0%;
+  margin-left: 5%;
+  margin-right: 5%;
+  width:40%;
+  padding: 0px;
+  border: solid 2px lightblue;
+}
 .imgsize {
   width: 50%;
   height: 100%;
