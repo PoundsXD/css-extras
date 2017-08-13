@@ -36,7 +36,17 @@
   position: absolute;
   top: 154px;
   left: 50px;
+  overflow: hidden;
+  max-height: 150px;
 }
+.modH2 {
+  z-index: 0;
+  position: absolute;
+  left: 50px;
+  top: 375px;
+  margin: 0%;
+  color: white;
+  }
 .imgBan {
   position: relative;
 }
@@ -98,6 +108,17 @@
   list-style-type: none;
   margin-top: 0%;
   margin-bottom: 0%;
+}
+.imgButton{
+  position:absolute;
+  color: white;
+  background-color: tan;
+  left: 80px;
+  top: 900px;
+  border: 200px;
+  border: solid 20px tan;
+  border-radius: 25px;
+
 }
 .clearfix {
   clear:both;
