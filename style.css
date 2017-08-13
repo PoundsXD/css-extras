@@ -79,6 +79,7 @@
 }
 #mainImg {
   width: 96%;
+  height: 850px;
   z-index: -1;
   margin-left: 2%;
   margin-right: 2%;
