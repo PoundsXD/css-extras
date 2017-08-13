@@ -1,0 +1,88 @@
+#signUp {
+  text-decoration: none;
+  color: lightgreen;
+}
+#mainImg {
+  width: 96%;
+  z-index: -1;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+#imgBan {
+  margin: 0%;
+}
+#searchIcon {
+  text-decoration: none;
+  color: black;
+}
+.modH1 {
+  color: white;
+  z-index: 0;
+  width: 40%;
+  margin: 0%;
+  position: relative;
+  top: 20px;
+  left: 35px;
+}
+#mod01 {
+  text-decoration: none;
+  color: grey;
+}
+#imgMod {
+  float:left;
+  width: 5%;
+  height: 5%;
+  padding: 0%;
+  margin: 1%;
+}
+#span1 {
+  width:10%;
+  float:left;
+  margin-top: 2.5%;
+  margin-bottom: 2%;
+  font-size: 25px;
+  color: black;
+}
+#upperNav {
+  width:10%;
+  float:right;
+  margin-top: 3%;
+  margin-bottom: 2%;
+}
+#upperNav2 {
+  width:10%;
+  float:right;
+  margin-top: 3%;
+  margin-bottom: 2%;
+}
+#upperNav3 {
+  width:10%;
+  float:right;
+  margin-top: 3%;
+  margin-bottom: 2%;
+}
+.navFloat {
+  float:left;
+  width:9%;
+}
+#lowerNav {
+  text-decoration: none;
+  color:black;
+  padding:2%;
+  vertical-align: middle;
+}
+#rmMargin {
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+.rmBul {
+  list-style-type: none;
+}
+.removeBullets {
+  list-style-type: none;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+.clearfix {
+  clear:both;
+}
