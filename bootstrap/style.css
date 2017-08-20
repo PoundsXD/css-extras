@@ -95,12 +95,62 @@
 }
 .mainBody {
   position:absolute;
-  top: 150px;
+  top: 130px;
   margin-left: 8%;
   width: 35%;
+  float: left;
 }
 h1 {
   color: navy;
   font-size: 60px;
   margin-bottom: 0%;
+}
+.button2 {
+  color: navy;
+  border: 1px solid navy;
+  width: 20%;
+  padding: 15px;
+  border-radius: 10%;
+  float: left;
+}
+.button2:hover {
+  color: white;
+  background-color: navy;
+  border: 1px solid navy;
+  width: 20%;
+  padding: 15px;
+  border-radius: 10%;
+  float: left;
+}
+.button3 {
+  color: gray;
+  border: 1px solid grey;
+  padding: 15px;
+  width: 20%;
+  float: left;
+  margin-left: 10px;
+  border-radius: 10%;
+}
+.button3:hover {
+  color: white;
+  background-color: grey;
+  border: 1px solid grey;
+  padding: 15px;
+  width: 20%;
+  float: left;
+  margin-left: 10px;
+  border-radius: 10%;
+}
+.styCol {
+  clear: both;
+}
+.giantLogo {
+  width: 40%;
+  position:absolute;
+  top: 160px;
+  right: 120px;
+}
+.gLogo {
+  width: 100%;
+  right: 70px;
 }
