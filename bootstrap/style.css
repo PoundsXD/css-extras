@@ -34,7 +34,7 @@
   margin-right: 10px;
   margin-left: 10px;
   width: auto;
-  color: darkgrey;
+  color: white;
   margin-top: 12px;
   text-decoration:none;
 }
@@ -93,6 +93,20 @@
   margin-right: 10px;
   text-decoration: none;
   color: white;
+  position:relative;
+}
+.dropDown {
+  position:absolute;
+  background-color: white;
+  z-index: 1;
+  border: 1px solid grey;
+  border-radius: 10%;
+  top: 70px;
+  right: 230px;
+  display: none;
+}
+.dropSelector:hover + .dropDown {
+  display: block;
 }
 .mainBody {
   position:absolute;
